@@ -1,0 +1,44 @@
+body {
+  background-color: #d7eaea;
+}
+
+h1{
+  font-size: 100px;
+  font-family: monospace;
+  background-color: #3bb4c1;
+  color: #074684;
+}
+h2{
+  font-size: 35px;
+  font-family: monospace;
+  background-color: #3bb4c1;
+  color: #074684;
+}
+.circular{
+  border-radius: 100%;
+}
+p{
+  font-family: cursive;
+}
+table{
+  font-family: cursive;
+}
+ol{
+  font-family: cursive;
+}
+ul{
+  font-family: cursive;
+}
+form{
+  font-family: cursive;
+}
+a{
+  font-family: cursive;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: blue;
+  text-decoration: underline;
+}
